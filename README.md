@@ -1,1 +1,1 @@
-# MyProClient
+# MyMinecraftClient
